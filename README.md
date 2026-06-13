@@ -4,7 +4,8 @@ A Python application that fetches and displays live weather data using API integ
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
-
+* **Domain:** Python Programming
+* **Company:** Oasis Infobyte
 ### 🎯 Objective
 To build a simple weather application that retrieves and displays live weather data for a specified city using external data handling.
 
